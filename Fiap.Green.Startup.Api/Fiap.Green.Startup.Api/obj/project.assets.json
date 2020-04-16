@@ -2031,6 +2031,40 @@
         "runtime": {
           "lib/netstandard1.3/System.Xml.XDocument.dll": {}
         }
+      },
+      "Fiap.Green.Startup.Domain/1.0.0": {
+        "type": "project",
+        "compile": {
+          "bin/placeholder/Fiap.Green.Startup.Domain.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fiap.Green.Startup.Domain.dll": {}
+        }
+      },
+      "Fiap.Green.Startup.Repository/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Fiap.Green.Startup.Domain": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Fiap.Green.Startup.Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fiap.Green.Startup.Repository.dll": {}
+        }
+      },
+      "Fiap.Green.Startup.Service/1.0.0": {
+        "type": "project",
+        "dependencies": {
+          "Fiap.Green.Startup.Domain": "1.0.0",
+          "Fiap.Green.Startup.Repository": "1.0.0"
+        },
+        "compile": {
+          "bin/placeholder/Fiap.Green.Startup.Service.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Fiap.Green.Startup.Service.dll": {}
+        }
       }
     }
   },
@@ -6683,10 +6717,27 @@
         "system.xml.xdocument.4.3.0.nupkg.sha512",
         "system.xml.xdocument.nuspec"
       ]
+    },
+    "Fiap.Green.Startup.Domain/1.0.0": {
+      "type": "project",
+      "path": "../Fiap.Green.Startup.Domain/Fiap.Green.Startup.Domain.csproj",
+      "msbuildProject": "../Fiap.Green.Startup.Domain/Fiap.Green.Startup.Domain.csproj"
+    },
+    "Fiap.Green.Startup.Repository/1.0.0": {
+      "type": "project",
+      "path": "../Fiap.Green.Startup.Repository/Fiap.Green.Startup.Repository.csproj",
+      "msbuildProject": "../Fiap.Green.Startup.Repository/Fiap.Green.Startup.Repository.csproj"
+    },
+    "Fiap.Green.Startup.Service/1.0.0": {
+      "type": "project",
+      "path": "../Fiap.Green.Startup.Service/Fiap.Green.Startup.Service.csproj",
+      "msbuildProject": "../Fiap.Green.Startup.Service/Fiap.Green.Startup.Service.csproj"
     }
   },
   "projectFileDependencyGroups": {
     ".NETCoreApp,Version=v3.1": [
+      "Fiap.Green.Startup.Domain >= 1.0.0",
+      "Fiap.Green.Startup.Service >= 1.0.0",
       "Microsoft.VisualStudio.Web.CodeGeneration.Design >= 3.1.1",
       "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore >= 3.1.2",
       "Oracle.EntityFrameworkCore >= 2.19.60",
@@ -6701,11 +6752,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
+      "projectUniqueName": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
       "projectName": "Fiap.Green.Startup.Api",
-      "projectPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
+      "projectPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
       "packagesPath": "C:\\Users\\guilh\\.nuget\\packages\\",
-      "outputPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\obj\\",
+      "outputPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Microsoft\\Xamarin\\NuGet\\",
@@ -6725,7 +6776,14 @@
       },
       "frameworks": {
         "netcoreapp3.1": {
-          "projectReferences": {}
+          "projectReferences": {
+            "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Fiap.Green.Startup.Domain.csproj": {
+              "projectPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Domain\\Fiap.Green.Startup.Domain.csproj"
+            },
+            "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Service\\Fiap.Green.Startup.Service.csproj": {
+              "projectPath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Service\\Fiap.Green.Startup.Service.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

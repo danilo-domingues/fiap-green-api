@@ -1,0 +1,6 @@
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Domain\bin\Debug\Fiap.Green.Startup.Domain.dll
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Domain\bin\Debug\Fiap.Green.Startup.Domain.pdb
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Domain\obj\Debug\Fiap.Green.Startup.Domain.csprojAssemblyReference.cache
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Domain\obj\Debug\Fiap.Green.Startup.Domain.csproj.CoreCompileInputs.cache
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Domain\obj\Debug\Fiap.Green.Startup.Domain.dll
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Domain\obj\Debug\Fiap.Green.Startup.Domain.pdb

@@ -118,9 +118,14 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
+    <Compile Include="DAL\CompraRepository.cs" />
+    <Compile Include="DAL\ProdutoRepository.cs" />
+    <Compile Include="Repository\ICompraRepository.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
     <Compile Include="Repository\Context\OracleContext.cs" />
-    <Compile Include="Repository\ICompraRepository.cs" />
+    <Compile Include="Repository\IProdutoRepository.cs" />
+    <Compile Include="Repository\IRepository.cs" />
+    <Compile Include="Repository\Repository.cs" />
   </ItemGroup>
   <ItemGroup>
     <None Include="app.config" />
@@ -131,6 +136,9 @@
       <Project>{6912A6E3-6638-4DBB-84DA-B3DAD16CE88B}</Project>
       <Name>Fiap.Green.Startup.Domain</Name>
     </ProjectReference>
+  </ItemGroup>
+  <ItemGroup>
+    <WCFMetadata Include="Connected Services\" />
   </ItemGroup>
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

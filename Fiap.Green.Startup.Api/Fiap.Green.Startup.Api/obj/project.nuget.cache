@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "A/XcCcIzPcyE3yL67ee0EbVtH62UmrusF3zVKM/4gtTT8olFqQkOdjqJS+/ECM00Q/9PBpGwwnOm9vDWI29ZKw==",
+  "dgSpecHash": "dbdKEevuoHj2AqKWCiRC9nciYPhQK9i3jQlea6c87C4DBLfJGbfAxNnVytouit/TZfclZmN4KBOaxjhT2Om+Ig==",
   "success": true,
-  "projectFilePath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartup\\fiap-green-startup\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
+  "projectFilePath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.html.abstractions\\2.2.0\\microsoft.aspnetcore.html.abstractions.2.2.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.aspnetcore.razor\\2.2.0\\microsoft.aspnetcore.razor.2.2.0.nupkg.sha512",

@@ -24,6 +24,8 @@
     ".NETCoreApp,Version=v3.1": {
       "Fiap.Green.Startup.Api/1.0.0": {
         "dependencies": {
+          "Fiap.Green.Startup.Domain": "1.0.0",
+          "Fiap.Green.Startup.Service": "1.0.0",
           "Microsoft.VisualStudio.Web.CodeGeneration.Design": "3.1.1",
           "Microsoft.VisualStudio.Web.CodeGeneration.EntityFrameworkCore": "3.1.2",
           "Oracle.EntityFrameworkCore": "2.19.60",
@@ -1702,6 +1704,37 @@
           "System.Text.Encoding": "4.3.0",
           "System.Threading": "4.3.0",
           "System.Xml.ReaderWriter": "4.3.0"
+        }
+      },
+      "Fiap.Green.Startup.Domain/1.0.0": {
+        "runtime": {
+          "Fiap.Green.Startup.Domain.dll": {}
+        },
+        "compile": {
+          "Fiap.Green.Startup.Domain.dll": {}
+        }
+      },
+      "Fiap.Green.Startup.Repository/1.0.0": {
+        "dependencies": {
+          "Fiap.Green.Startup.Domain": "1.0.0"
+        },
+        "runtime": {
+          "Fiap.Green.Startup.Repository.dll": {}
+        },
+        "compile": {
+          "Fiap.Green.Startup.Repository.dll": {}
+        }
+      },
+      "Fiap.Green.Startup.Service/1.0.0": {
+        "dependencies": {
+          "Fiap.Green.Startup.Domain": "1.0.0",
+          "Fiap.Green.Startup.Repository": "1.0.0"
+        },
+        "runtime": {
+          "Fiap.Green.Startup.Service.dll": {}
+        },
+        "compile": {
+          "Fiap.Green.Startup.Service.dll": {}
         }
       },
       "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
@@ -4285,6 +4318,21 @@
       "sha512": "sha512-5zJ0XDxAIg8iy+t4aMnQAu0MqVbqyvfoUVl1yDV61xdo3Vth45oA2FoY4pPkxYAH5f8ixpmTqXeEIya95x0aCQ==",
       "path": "system.xml.xdocument/4.3.0",
       "hashPath": "system.xml.xdocument.4.3.0.nupkg.sha512"
+    },
+    "Fiap.Green.Startup.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fiap.Green.Startup.Repository/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "Fiap.Green.Startup.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
     },
     "Microsoft.AspNetCore.Antiforgery/3.1.0.0": {
       "type": "referenceassembly",

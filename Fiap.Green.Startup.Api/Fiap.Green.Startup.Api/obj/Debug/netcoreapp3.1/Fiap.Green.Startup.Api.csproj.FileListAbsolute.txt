@@ -189,8 +189,6 @@ D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.G
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\bin\Debug\netcoreapp3.1\zh-Hans\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\bin\Debug\netcoreapp3.1\zh-Hant\Microsoft.CodeAnalysis.Workspaces.resources.dll
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.csprojAssemblyReference.cache
-D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.csproj.CoreCompileInputs.cache
-D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.MvcApplicationPartsAssemblyInfo.cache
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.AssemblyInfoInputs.cache
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.AssemblyInfo.cs
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.RazorTargetAssemblyInfo.cache
@@ -207,3 +205,5 @@ D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.G
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\bin\Debug\netcoreapp3.1\Fiap.Green.Startup.Service.pdb
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\bin\Debug\netcoreapp3.1\Fiap.Green.Startup.Repository.pdb
 D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\bin\Debug\netcoreapp3.1\Fiap.Green.Startup.Repository.dll.config
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.csproj.CoreCompileInputs.cache
+D:\Documentos\FiapTrabalhos\GitHub\GreenStartupAPI\fiap-green-startup-api\Fiap.Green.Startup.Api\Fiap.Green.Startup.Api\obj\Debug\netcoreapp3.1\Fiap.Green.Startup.Api.MvcApplicationPartsAssemblyInfo.cache

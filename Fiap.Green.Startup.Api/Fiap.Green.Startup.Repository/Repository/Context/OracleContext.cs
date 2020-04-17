@@ -10,10 +10,6 @@ namespace Fiap.Green.Startup.Repository.Context
 {
     public class OracleContext : DbContext
     {
-
-
-        private readonly IConfiguration _configurationc;
-
         public OracleContext()
         {
 

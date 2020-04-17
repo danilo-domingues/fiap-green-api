@@ -13,18 +13,22 @@ namespace Fiap.Green.Startup.Api.Controllers
     [ApiController]
     public class ProdutoController : ControllerBase
     {
-        public IActionResult Create([Bind("IdProduto,NomeProduto,Quantidade,Ativo,Preco,DataAtualizacao,IdTipoProduto,IdFornecedor")] Produto produto)
+        // GET: api/Default
+        [HttpGet]
+        public List<Produto> Get()
         {
             try
             {
                 ProdutoBLL produtoBLL = new ProdutoBLL();
-                produtoBLL.AdicionarProduto(produto);
-                return Ok("Foi");
+                List<Produto> lista = produtoBLL.Get_ProdutoInfo();
+                return lista;
             }
-            catch (Exception ex)
+            catch(Exception ex)
             {
                 throw ex;
             }
+
+            }
+
         }
-    }
 }

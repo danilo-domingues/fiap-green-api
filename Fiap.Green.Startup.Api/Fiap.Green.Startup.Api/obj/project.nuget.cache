@@ -1,6 +1,6 @@
 {
   "version": 2,
-  "dgSpecHash": "dbdKEevuoHj2AqKWCiRC9nciYPhQK9i3jQlea6c87C4DBLfJGbfAxNnVytouit/TZfclZmN4KBOaxjhT2Om+Ig==",
+  "dgSpecHash": "mDrkjTepciEr9paLwFpDgMlG3krkP8kpbf7jkpUvyIwDr5r+irCp95Ks7RySsJ+4wxOk0LTLurAcx11o6vxkIg==",
   "success": true,
   "projectFilePath": "D:\\Documentos\\FiapTrabalhos\\GitHub\\GreenStartupAPI\\fiap-green-startup-api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api\\Fiap.Green.Startup.Api.csproj",
   "expectedPackageFiles": [
@@ -41,7 +41,7 @@
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.visualstudio.web.codegenerators.mvc\\3.1.1\\microsoft.visualstudio.web.codegenerators.mvc.3.1.1.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\microsoft.win32.primitives\\4.3.0\\microsoft.win32.primitives.4.3.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\netstandard.library\\1.6.1\\netstandard.library.1.6.1.nupkg.sha512",
-    "C:\\Users\\guilh\\.nuget\\packages\\newtonsoft.json\\11.0.2\\newtonsoft.json.11.0.2.nupkg.sha512",
+    "C:\\Users\\guilh\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\nuget.frameworks\\4.7.0\\nuget.frameworks.4.7.0.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\oracle.entityframeworkcore\\2.19.60\\oracle.entityframeworkcore.2.19.60.nupkg.sha512",
     "C:\\Users\\guilh\\.nuget\\packages\\oracle.manageddataaccess.core\\2.19.60\\oracle.manageddataaccess.core.2.19.60.nupkg.sha512",

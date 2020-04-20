@@ -1,2 +1,2 @@
-# fiap-gren-startup-api
+# fiap-gren-api
 Projeto API 
